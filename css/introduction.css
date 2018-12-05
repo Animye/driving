@@ -1,0 +1,69 @@
+header {
+    width: 100%;
+    background-color: #50bbdb;
+}
+
+.top {}
+
+.top a {
+    display: block;
+    float: left;
+    line-height: 0.88rem;
+    font-size: 0.24rem;
+    color: #fff;
+}
+
+.top a:first-child {
+  width: 0.39rem;
+  line-height: 0.39rem;
+  border-radius:50%;
+  border:1px solid  #fff;
+  margin-top: 0.23rem ;
+  margin-left: 0.45rem;
+
+}
+
+.top a:last-child {
+    margin-left: 1.9rem;
+}
+.main-top{
+    width: 4.92rem;
+    margin-left: 0.42rem;
+    margin-top: 0.19rem;
+}
+.main-top img{
+    display:block;
+    float:left;
+    margin-right: 0.49rem;
+    width: 1.45rem;
+
+}
+.main-top h1{
+    font-size:0.29rem;
+    padding-top: 0.58rem;
+
+}
+.main-top p{
+   float:left;
+  /*  margin-left: 0.96rem;*/
+     margin-top: 0.17rem;
+    width: 2.97rem;
+    padding-top: 0.01rem ;
+    background-image: url(../images/lingduip_10.jpg);
+
+}
+.article{
+    border:1px dashed #e9e9e9;
+    width: 5.45rem;
+    margin-left: 0.41rem;
+    margin-top: 0.24rem;
+    margin-bottom: 1.25rem;
+}
+.article p{
+    margin-right: 0.18rem;
+    margin-left: 0.1rem;
+    margin-top: 0.08rem;
+    font-size: 0.20rem;
+    color:#333333;
+    line-height: 0.36rem;
+}

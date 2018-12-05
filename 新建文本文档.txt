@@ -1,0 +1,4 @@
+<script>
+		// 根据屏幕的宽度和设计稿的尺寸动态设置 html 的 font-size    以下设计稿的尺寸为 640  6.4rem 相当于屏幕的宽度
+		document.documentElement.style.fontSize = document.documentElement.clientWidth / 5.25 + 'px';
+	</script>

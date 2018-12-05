@@ -1,0 +1,159 @@
+header {
+    width: 100%;
+    background-color: #50bbdb;
+}
+
+.top {}
+
+.top a {
+    display: block;
+    float: left;
+    line-height: 0.88rem;
+    font-size: 0.24rem;
+    color: #fff;
+}
+
+.top a:first-child {
+    width: 0.39rem;
+    line-height: 0.39rem;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    margin-top: 0.23rem;
+    margin-left: 0.45rem;
+
+}
+
+.top a:nth-child(2) {
+    margin-left: 1.9rem;
+}
+
+.top a:last-child {
+    float: right;
+    display: block;
+    box-sizing: border-box;
+
+}
+
+.top img {
+    width: 0.45rem;
+    margin-right: 0.20rem;
+    display: block;
+    margin-top: 0.2rem;
+
+
+}
+
+section .text1 {
+    border-bottom: 1px solid #dcdcdc;
+}
+
+section h3 {
+    font-size: 0.24rem;
+    background-image: url(../images/dayuhao_16.jpg);
+    background-repeat: no-repeat;
+    background-position: right center;
+    margin-right: 0.24rem;
+    line-height: 0.46rem;
+    padding-right: 0.48rem;
+    margin-left: 0.05rem;
+    text-indent: 0.11rem;
+}
+
+.text2 {
+    padding-left: 0.28rem;
+    padding-top: 0.38rem;
+    border-bottom: 1px solid #dcdcdc;
+    padding-bottom: 0.32rem;
+}
+
+.text2 h4,
+.text3 h4,
+.text5 h4,
+.text6 h4,
+.text7 h4 {
+    font-size: 0.26rem;
+    font-weight: bolder;
+    border-left: 4px solid #50bbdb;
+    padding-left: 0.19rem;
+
+}
+
+.text2 p,
+.text3 p,
+.text6 p,
+.text7 p,
+.text8 p {
+    font-size: 0.18rem;
+    margin-top: 0.24rem;
+    margin-left: 0.21rem;
+}
+
+.text3 {
+    padding-left: 0.28rem;
+    padding-top: 0.38rem;
+    border-bottom: 1px solid #dcdcdc;
+    padding-bottom: 0.13rem;
+
+}
+
+.text3 p {
+    float: left;
+    margin-right: 0.54rem;
+}
+
+.text3 p span,
+.text4 p span {
+    margin-left: 0.24rem;
+}
+
+.text4 {
+    padding-top: 0.12rem;
+    padding-bottom: 0.08rem;
+    border-bottom: 1px solid #dcdcdc;
+}
+
+.text4 p {
+    font-size: 0.18rem;
+    margin-left: 3.0rem;
+    margin-bottom: 0.25rem;
+}
+
+.text5 {
+    padding-left: 0.28rem;
+    padding-top: 0.24rem;
+    padding: 0.32rem;
+    border-bottom: 1px solid #dcdcdc;
+}
+
+.text5 p {
+    font-size: 0.18rem;
+    margin-left: 0.21rem;
+    margin-top: 0.24rem;
+}
+
+.text5 p span {
+    display: block;
+    float: right;
+    margin-right: 0.50rem;
+}
+
+.text6,
+.text7 {
+    padding-left: 0.28rem;
+    padding-top: 0.26rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid #dcdcdc;
+}
+
+.text8 {
+    padding-left: 0.28rem;
+
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid #dcdcdc;
+    margin-bottom: 0.48rem;
+}
+
+section a {
+    display: block;
+    color: #333333;
+}

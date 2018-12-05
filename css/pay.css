@@ -1,0 +1,100 @@
+header {
+    width: 100%;
+    background-color: #fff;
+
+}
+
+.top {
+    background-color: #50bbdb;
+}
+
+.top a {
+    display: block;
+    float: left;
+    line-height: 0.88rem;
+    font-size: 0.24rem;
+    color: #fff;
+}
+
+.top a:first-child {
+    width: 0.39rem;
+    line-height: 0.39rem;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    margin-top: 0.23rem;
+    margin-left: 0.45rem;
+
+}
+
+.top a:last-child {
+    margin-left: 1.9rem;
+
+}
+header p{
+    font-size: 0.28rem;
+    line-height: 0.97rem;
+    color:#f29846;
+    margin-left: 0.53rem;
+}
+section{
+    width: 100%;
+    background-color: #ebebeb;
+    padding-bottom: 2.91rem;
+    padding-top: 0.26rem;
+}
+.inner{
+    background-color: #fff;
+
+}
+.inner .text1{
+    line-height: 0.99rem;
+    margin-left: 0.52rem;
+    margin-right: 0.21rem;border-bottom: 0.01rem solid #dcdcdc;
+}
+ form p{
+float:left;
+font-size: 0.30rem;
+
+}
+ form p img{
+    display:block;
+    width: 0.57rem;
+    float:left;
+    margin-top: 0.22rem;
+    margin-right: 0.37rem;
+}
+ form input{
+     float:right;
+    display:block;
+    width: 0.40rem;
+    height: 0.40rem;
+    margin-top: 0.3rem;
+}
+footer{
+    padding-top: 0.16rem;
+    padding-left: 0.16rem;
+    padding-bottom: 0.14rem;
+    padding-right: 0.26rem;
+}
+footer p{
+    float:left;
+    font-size: 0.20rem;
+    width: 4rem;
+}
+footer p:first-child{
+    color:#f0851a;
+    font-size:0.25rem;
+}
+footer>a{
+    display:block;
+    width: 1.87rem;
+    line-height: 0.66rem;
+    text-align: center;
+    border-radius: 0.04rem;
+    font-size: 0.30rem;
+    color:#fff;
+    background-color: #50bbdb;
+    float:right;
+
+
+}

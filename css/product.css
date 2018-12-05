@@ -1,0 +1,207 @@
+header {
+    width: 100%;
+    background-color: #50bbdb;
+}
+
+.top {
+
+
+
+    /*background-image: url(../images/shengluehao.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    -webkit-background-size: 0.52rem;
+    background-size: 0.52rem;*/
+}
+
+.top a {
+    display: block;
+
+    font-size: 0.24rem;
+    color: #fff;
+}
+
+.top .sign {
+    font-size: 0.54rem;
+    line-height: 0.88rem;
+    float: left;
+}
+
+.top .order {
+    float: left;
+
+    margin-top: 0.18rem;
+    margin-left: 2.0rem;
+
+    /*margin-left: 2.3rem;*/
+}
+
+.top .order span {
+    display: block;
+    font-size: 0.16rem;
+    text-align: center;
+}
+
+.other {
+    font-size: 0.54rem;
+    line-height: 0.88rem;
+    float: right;
+    margin-right: 0.13rem;
+
+}
+
+.other img {
+    width: 0.52rem;
+    display: block;
+    margin-top: 0.2rem;
+}
+
+section {
+    width: 100%;
+    background-color: #f1f1f1;
+    border-bottom:0.01rem solid #d2d2d2;
+}
+
+.content {
+    background-color: #fff;
+    padding-right: 0.14rem;
+    position: relative;
+    margin-top: 0.17rem;
+}
+
+.content img {
+    float: left;
+    display: block;
+    width: 1.8rem;
+    margin-right: 0.13rem;
+
+
+}
+
+.content h3 {
+    /* padding-top: 0.05rem;*/
+    font-size: 0.23rem;
+    color: #333333;
+    /*  margin-bottom: 0.12rem;*/
+}
+
+.content h3 em {
+    font-weight: bolder;
+}
+
+.content h4 {
+    font-size: 0.23rem;
+    color: #333333;
+    /*   margin-bottom: 0.10rem;*/
+
+}
+
+.content p:nth-child(4) {
+    font-size: 0.19rem;
+    color: #c6c6c6;
+}
+
+.content p:nth-child(5) {
+    font-size: 0.17rem;
+    color: #333333;
+    line-height: 0.38rem;
+    background-image: url(../images/boshi_59.jpg);
+    background-repeat: no-repeat;
+    background-position: left center;
+    -webkit-background-size: 0.29rem;
+    background-size: 0.29rem;
+    float: left;
+    padding-left: 0.35rem;
+}
+
+.content span {
+    display: block;
+    float: right;
+    font-size: 0.23rem;
+    color: #ea561d;
+}
+
+.content span em {
+    font-size: 0.14rem;
+}
+
+.content .yinying {
+    font-size: 0.21rem;
+    width: 1.8rem;
+    color: #fff;
+    line-height: 0.3rem;
+    border-bottom: 0.01rem solid #307083;
+    background-color: rgba(0, 0, 0, 0.5);
+    opacity: 0.8;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+}
+footer{
+    padding-top: 0.98rem;
+}
+
+footer ul {
+    position:fixed;
+    bottom:0;
+    float: left;
+    background-color: #fff;
+
+
+}
+
+footer li {
+    float: left;
+}
+
+footer li a {
+
+    width: 0.80rem;
+    display: block;
+    font-size: 0.2rem;
+    padding-top: 0.7rem;
+    padding-bottom: 0.09rem;
+
+    margin-right: 0.76rem;
+    color: #333333;
+}
+
+footer li a:hover {
+    color: #50bbdb;
+}
+
+footer li:first-child a {
+    margin-left: 0.26rem;
+    background-image: url(../images/1.jpg);
+    -webkit-background-size: 0.8rem;
+    background-size: 0.8rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: #50bbdb;
+}
+
+footer li:nth-child(2) a {
+    background-image: url(../images/2.jpg);
+    -webkit-background-size: 0.8rem;
+    background-size: 0.8rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+footer li:nth-child(3) a {
+    background-image: url(../images/3.jpg);
+    -webkit-background-size: 0.8rem;
+    background-size: 0.8rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+footer li:last-child a {
+    margin-right: 0.48rem;
+    background-image: url(../images/4.jpg);
+    -webkit-background-size: 0.8rem;
+    background-size: 0.8rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+}

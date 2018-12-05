@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Document</title>
+    <style type="text/css">
+    .box{
+        width: 4rem;
+        height: 2rem;
+        background-color: #fff;
+        display: table;
+    }
+    ul{
+
+
+display: table-row;
+border:1px solid red;
+    }
+    .box li{
+        line-height: 0.67rem;
+        text-align: center;
+        width: 0.5rem;
+        font-size: 0.12rem;
+        color:red;
+display: table-cell;
+border:1px solid red;
+    }
+    </style>
+    <script>
+        // 根据屏幕的宽度和设计稿的尺寸动态设置 html 的 font-size    以下设计稿的尺寸为 640  6.4rem 相当于屏幕的宽度
+        document.documentElement.style.fontSize = document.documentElement.clientWidth / 6.4 + 'px';
+    </script>
+</head>
+<body>
+    <div class="box">
+        <ul>
+            <li>1</li>
+            <li>3</li>
+            <li>4</li>
+            <li></li>
+            <li></li>
+        </ul>
+        <ul>
+            <li></li>
+            <li>5</li>
+            <li></li>
+            <li></li>
+            <li>8</li>
+        </ul>
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li>0</li>
+        </ul>
+    </div>
+</body>
+</html>

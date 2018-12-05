@@ -1,0 +1,99 @@
+header {
+    width: 100%;
+    background-color: #fff;
+    border-bottom: 0.01rem solid #dcdcdc;
+
+}
+
+.top {
+    background-color: #50bbdb;
+}
+
+.top a {
+    display: block;
+    float: left;
+    line-height: 0.88rem;
+    font-size: 0.24rem;
+    color: #fff;
+}
+
+.top a:first-child {
+    width: 0.39rem;
+    line-height: 0.39rem;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    margin-top: 0.23rem;
+    margin-left: 0.45rem;
+
+}
+
+.top a:nth-child(2) {
+    margin-left: 1.9rem;
+}
+.top a:last-child{
+    float:right;
+    margin-right: 0.22rem;
+}
+header p{
+margin-left: 2.09rem;
+    line-height: 0.78rem;
+    padding-left: 0.76rem;
+    font-size: 0.22rem;
+   float:left;
+    background-image: url(../images/pay5_08.jpg);
+    background-repeat: no-repeat;
+    background-position: left center;
+    -webkit-background-size: 0.34rem;
+    background-size: 0.34rem;
+
+
+}
+section{
+    width: 100%;
+    background-color: #fff;
+    padding-bottom: 0.23rem;
+}
+section .text,.text1{
+    background-color: #fff;
+    margin-left: 0.4rem;
+    margin-right: 0.33rem;
+    border-bottom: 0.01rem dashed #dcdcdc;
+    padding-top: 0.28rem;
+}
+section .text p,.text1 p{
+font-size: 0.21rem;
+margin-bottom: 0.28rem;
+padding-right: 0.14rem;
+padding-left: 0.08rem;
+color:#797979;
+}
+section .text p span,.text1 p span{
+    float:right;
+    color:#333333;
+}
+section .text1{
+    border-bottom: 0;
+}
+footer{
+    background-color: #f6f6f6;
+padding-top: 0.52rem;
+padding-bottom: 1rem;
+}
+footer p{
+    font-size: 0.20rem;
+    margin-left:0.44rem;
+    margin-right: 0.54rem;
+    line-height: 0.41rem;
+
+}
+footer a{
+    display:block;
+    width: 5.41rem;
+    text-align: center;
+    line-height: 0.69rem;
+    border:0.02rem solid #e5e5e5;
+    font-size: 0.3rem;
+    color:#50bbdb;
+    margin:0 auto;
+    margin-top: 0.96rem;
+}
